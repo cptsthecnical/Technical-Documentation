@@ -1,0 +1,24 @@
+# VeraCrypt formato portable
+https://veracrypt.io/en/Downloads.html
+
+E:\
+ ├─ VeraCrypt.exe       ← versión portable
+ ├─ MiContenedor.hc     ← contenedor cifrado
+ └─ (icono opcional)    ← si quieres cambiar icono del USB
+
+2. Crear el contenedor (si aún no lo tienes)
+Ejecuta VeraCrypt.exe desde el USB.
+Click en Create Volume → Create an encrypted file container → Standard VeraCrypt volume.
+Elige ubicación dentro del USB (E:\MiContenedor.hc).
+Selecciona AES (o el algoritmo que prefieras) → tamaño del contenedor → contraseña → formato.
+
+3. Montar el contenedor
+Abre VeraCrypt.exe desde el USB.
+Selecciona una letra de unidad libre.
+Click en Select File → MiContenedor.hc.
+Click en Mount → introduce la contraseña.
+El contenedor aparecerá como una unidad normal (Z: por ejemplo) y puedes usar los archivos como siempre.
+
+4. Desmontar
+En VeraCrypt → Dismount.
+Los archivos quedan protegidos dentro del contenedor .hc.
