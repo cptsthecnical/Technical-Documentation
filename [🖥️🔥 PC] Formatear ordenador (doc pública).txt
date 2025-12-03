@@ -240,4 +240,5 @@ Datos para guardar en un USB extraible:
 # Instalación para todos los equipos:
 	[●] WinRAR:				https://www.rarlab.com/download.htm
 	[●] Acrobat Reader:		https://get.adobe.com/es/reader/enterprise/
-	[●] Chrome
+	[●] Chrome:
+	[●] VMWare:				https://www.vmware.com/								       # Registrarse y descargar VMware Workstation 17 Player
