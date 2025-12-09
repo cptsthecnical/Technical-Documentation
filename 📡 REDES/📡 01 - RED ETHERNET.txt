@@ -1,0 +1,13 @@
+IP :
+Dirección lógica que identifica de forma única a un host dentro de una red. Se usa para el enrutamiento de paquetes en capa 3.
+
+Puerta de enlace (Gateway) :
+Es el router que actúa como salto de salida desde tu subred hacia otras redes (incluida Internet). Todo paquete cuyo destino no esté en tu red local se envía a la puerta de enlace.
+Impacto: si está mal configurada, no hay salida a Internet ni acceso a otras subredes.
+
+Máscara de red (Subnet) :
+Parámetro que define qué bits de la IP representan la red y cuáles representan los hosts. Determina el tamaño de la subred y qué direcciones se consideran locales.
+  Ejemplo: 192.168.1.34/24 → red 192.168.1.0, host 34.
+
+DNS :
+Servicio encargado de resolver nombres de dominio a direcciones IP. Permite acceder a servicios utilizando nombres en vez de IPs. Si falla, la conectividad IP existe, pero no se resuelven dominios.
