@@ -154,6 +154,11 @@ Datos para guardar en un USB extraible:
 
 # ¡IMPORTANTE! 🔥Desde el equipo antiguo tengo que realizar los siguientes cambios:
 ***************************************************************************************	
+	# Abro el Outlook para enviar y recibir (Actualizar mensajes), antes de cambiar la configuración: 
+		- Abro el Outlook
+		- Selección Bandeja de entrada en la cuenta elegida
+			> Enviar y Recibir > Enviar y Recibir todas las carpetas 							# pulsar varias veces
+
 	# Desactivar el mantener copia de seguridad:
 		- Panel de control > Mail > Cuentas de correo electrónico > (seleccionar cuenta) 
 		- Más configuración > Avanzadas:
@@ -161,7 +166,7 @@ Datos para guardar en un USB extraible:
 			+ [ ] Quitar el servidor después ... días						        		      # opción desactivada
 			> Aceptar
 
-	# Abro el Outlook para enviar y recibir (Actualizar mensajes): 
+	# Abro el Outlook para enviar y recibir (Actualizar mensajes) nuevamente, antes de pasarme el archivo: 
 		- Abro el Outlook
 		- Selección Bandeja de entrada en la cuenta elegida
 			> Enviar y Recibir > Enviar y Recibir todas las carpetas 							# pulsar varias veces
