@@ -1,5 +1,12 @@
 #=======================================================================================
 #=======================================================================================
+[📌🛠️ EJECUTAR SCRIPT AUNQUE TENGA REGLA EN ACTIVE DIRECTORY PARA NO EJECUTARSE]:
+# probar script
+cd D:\TransferPDFs\
+powershell -ExecutionPolicy Bypass -File "D:\TransferPDFs\TransferPDFs.ps1"
+
+#=======================================================================================
+#=======================================================================================
 [📌🛠️ FUNCIONES Y COMANDOS BÁSICOS EN POWERSHELL]:
 # imprimir texto
 Write-Output "Hola Mundo"
