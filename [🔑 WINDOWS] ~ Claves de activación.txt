@@ -1,0 +1,10 @@
+# con el programa de massgrave puedo conseguir la clave de Windwos y la product key de Microsoft:
+https://massgrave.dev/
+
+# comando para conseguir la product key de Windows
+iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+  > 1
+  > 2
+
+# me fio de este proyecto porque esta subido a GitHub sin reportes de virus y con una comunidadde IT
+# y NO funciona como un sistema de servidor interno Microsoft Activation Scripts (MAS) sino que lo realiza de una forma a bajo nivel modificando algo en la bios o hardware
